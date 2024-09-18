@@ -1,0 +1,6 @@
+name: iqsharp-samples
+channels:
+  - microsoft
+dependencies:
+  - notebook
+  - iqsharp

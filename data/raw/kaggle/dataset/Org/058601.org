@@ -1,0 +1,18 @@
+This prompter library is heavily inspired by Emacs' minibuffer and [[https://emacs-helm.github.io/helm/][Helm]].
+
+It only deals with the backend side of things, it does not handle any display.
+
+Non-exhaustive list of features:
+
+- Asynchronous suggestion computation.
+- Multiple sources.
+- Multiple actions.
+- Customizable matching and sorting.
+- Multiple attributes to match and display (also known as "multiple column
+  display" like =helm-find-files=).
+- Customizable initialization and cleanup functions.
+- Notifications sent when suggestion list is updated.
+- Per-source history.
+- Resumable prompters.
+- Follow function (executed without closing the prompter).
+- Follow-mode (automatically run the persistent action on selection change).
