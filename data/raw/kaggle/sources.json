@@ -1,0 +1,226 @@
+{
+  "sources": [
+    {
+      "source": "https://github.com/facebook/react",
+      "base": "bb49abea2377d6391a98cef536e9da4c26ddaa39",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/facebook/react/bb49abea2377d6391a98cef536e9da4c26ddaa39/LICENSE"
+    },
+    {
+      "source": "https://github.com/microsoft/calculator",
+      "base": "427f9736f2bbaeed149e663c5f3d112d10afa65c",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/microsoft/calculator/427f9736f2bbaeed149e663c5f3d112d10afa65c/LICENSE"
+    },
+    {
+      "source": "https://github.com/dart-lang/sdk",
+      "base": "560579b584f1f9b97109689deb6b723d77edcf0b",
+      "license": "BSD-3-Clause License",
+      "license_full": "https://raw.githubusercontent.com/dart-lang/sdk/560579b584f1f9b97109689deb6b723d77edcf0b/LICENSE"
+    },
+    {
+      "source": "https://github.com/microsoft/Quantum",
+      "base": "b47d743edd1feaa3bd665427a538ffdbc76ebed6",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/microsoft/Quantum/b47d743edd1feaa3bd665427a538ffdbc76ebed6/LICENSE.txt"
+    },
+    {
+      "source": "https://github.com/rust-lang/rust",
+      "base": "2310da432ca1c3e87f1d17e069f2336f2d4939e5",
+      "license": "Apache 2.0 and MIT",
+      "license_full": "https://raw.githubusercontent.com/rust-lang/rust/2310da432ca1c3e87f1d17e069f2336f2d4939e5/COPYRIGHT"
+    },
+    {
+      "source": "https://github.com/rails/rails",
+      "base": "39b7bf7a00fd7abc339573a9f5b62cf0db7a8a9b",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/rails/rails/39b7bf7a00fd7abc339573a9f5b62cf0db7a8a9b/MIT-LICENSE"
+    },
+    {
+      "source": "https://github.com/golang/go",
+      "base": "9a6acc83c853c17700c44e336e2d3e2c0fe9a72b",
+      "license": "License",
+      "license_full": "https://raw.githubusercontent.com/golang/go/9a6acc83c853c17700c44e336e2d3e2c0fe9a72b/LICENSE"
+    },
+    {
+      "source": "https://github.com/jessfraz/dockerfiles",
+      "base": "8ff991327fd1c68369c2fb576215d0eabffca0e1",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/jessfraz/dockerfiles/8ff991327fd1c68369c2fb576215d0eabffca0e1/LICENSE"
+    },
+    {
+      "source": "https://github.com/TheAlgorithms/Java",
+      "base": "060069cf732ce8e47088d4fb4d615e9f12c1cf26",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/TheAlgorithms/Java/060069cf732ce8e47088d4fb4d615e9f12c1cf26/LICENSE"
+    },
+    {
+      "source": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "base": "37a29008e6b77921a97a89ca8b7fd9e700aeccd0",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/TheAlgorithms/C-Plus-Plus/37a29008e6b77921a97a89ca8b7fd9e700aeccd0/LICENSE"
+    },
+    {
+      "source": "https://github.com/TheAlgorithms/C",
+      "base": "2314a195862243e09c485a66194866517a6f8c31",
+      "license": "GNU General Public License v3.0",
+      "license_full": "https://raw.githubusercontent.com/TheAlgorithms/C/2314a195862243e09c485a66194866517a6f8c31/LICENSE"
+    },
+    {
+      "source": "https://github.com/TheAlgorithms/Scala",
+      "base": "a54b634133d92327c165c6ff623ee70044f692cc",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/TheAlgorithms/Scala/a54b634133d92327c165c6ff623ee70044f692cc/LICENSE"
+    },
+    {
+      "source": "https://github.com/TheAlgorithms/Swift",
+      "base": "2ce290533bad771b85e8739faabc0801c0210aed",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/TheAlgorithms/Haskell",
+      "base": "9dcabef99fb8995a760ff25a9e0d659114c0b9d3",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/TheAlgorithms/Haskell/9dcabef99fb8995a760ff25a9e0d659114c0b9d3/LICENSE"
+    },
+    {
+      "source": "https://github.com/lua/lua",
+      "base": "8426d9b4d4df1da3c5b2d759e509ae1c50a86667",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/JetBrains/kotlin",
+      "base": "1488790cd30b8d8de07d26acf96012b0b5addcf2",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/JuliaLang/julia",
+      "base": "7401e92a930ab51ff74e67a27152df5c2acd459b",
+      "license": "",
+      "license_full": "https://raw.githubusercontent.com/JuliaLang/julia/7401e92a930ab51ff74e67a27152df5c2acd459b/LICENSE.md"
+    },
+    {
+      "source": "https://github.com/laravel/laravel",
+      "base": "9986d516f0b68c4fa10a43a0f592a98a8bf7e6dc",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/atlas-engineer/nyxt",
+      "base": "debf07c063c1e67d99e825d5de722d0e4a5433dc",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/stascorp/rdpwrap",
+      "base": "a5c64a43319e4e375b391ad42c41504bcb349b4a",
+      "license": "Apache-2.0 License",
+      "license_full": "https://raw.githubusercontent.com/stascorp/rdpwrap/a5c64a43319e4e375b391ad42c41504bcb349b4a/LICENSE"
+    },
+    {
+      "source": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "base": "0d4ce028bf8b8a94d325dc1e1c20446153ba19c4",
+      "license": "Apache-2.0 License",
+      "license_full": "https://raw.githubusercontent.com/KhronosGroup/SPIRV-Cross/0d4ce028bf8b8a94d325dc1e1c20446153ba19c4/LICENSE"
+    },
+    {
+      "source": "https://github.com/brendangregg/FlameGraph",
+      "base": "810687f180f3c4929b5d965f54817a5218c9d89b",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/microsoft/MS-DOS",
+      "base": "04a3d20ff411409ab98474892b2bb1713bde0f7f",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/microsoft/MS-DOS/04a3d20ff411409ab98474892b2bb1713bde0f7f/LICENSE.md"
+    },
+    {
+      "source": "https://github.com/microsoft/sql-server-samples",
+      "base": "750e273e94f806d69ed92a1735a2713fae7d9fcf",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/microsoft/sql-server-samples/750e273e94f806d69ed92a1735a2713fae7d9fcf/license.txt"
+    },
+    {
+      "source": "http://www1.coe.neu.edu/~perry/mim3122/",
+      "base": "",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/docker/dockercraft",
+      "base": "4be6b595d2b965da8e6af10f83f1a53b0c2a0dee",
+      "license": "Apache-2.0 License",
+      "license_full": "https://raw.githubusercontent.com/docker/dockercraft/4be6b595d2b965da8e6af10f83f1a53b0c2a0dee/LICENSE"
+    },
+    {
+      "source": "https://github.com/pmmp/PocketMine-MP",
+      "base": "ea677154cbe67d181ce5fa8294968a896ff78cb4",
+      "license": "LGPL-3.0 License",
+      "license_full": "https://raw.githubusercontent.com/pmmp/PocketMine-MP/stable/LICENSE"
+    },
+    {
+      "source": "https://github.com/GSA/data",
+      "base": "6678de20dd76331d8052e87817b923bf3431cd67",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/elixir-lang/elixir",
+      "base": "700e0b7a60050f71de8cf20d36e6cdf474a68380",
+      "license": "Apache-2.0 License",
+      "license_full": "https://github.com/elixir-lang/elixir/raw/700e0b7a60050f71de8cf20d36e6cdf474a68380/LICENSE"
+    },
+    {
+      "source": "https://github.com/clojure/clojure",
+      "base": "35bd89f05f8dc4aec47001ca10fe9163abc02ea6",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/dotnet/csharplang",
+      "base": "f5738779482552ec012e17c1d41c30e02d756152",
+      "license": "",
+      "license_full": ""
+    },
+    {
+      "source": "https://github.com/AssemblyScript/assemblyscript",
+      "base": "9c0db25fb64eca0aec257184d54ad6674e1d48ac",
+      "license": "Apache-2.0 License",
+      "license_full": "https://github.com/AssemblyScript/assemblyscript/raw/9c0db25fb64eca0aec257184d54ad6674e1d48ac/LICENSE"
+    },
+    {
+      "source": "https://github.com/less/less.js",
+      "base": "3f05b5cde6803064bef0ddc837ec1060c9e83635",
+      "license": "Apache-2.0 License",
+      "license_full": "https://github.com/less/less.js/raw/3f05b5cde6803064bef0ddc837ec1060c9e83635/LICENSE"
+    },
+    {
+      "source": "https://github.com/Azure/azure-sdk-for-net",
+      "base": "1cc799979e68dba56a1920d23bec15f33d9ce6fa",
+      "license": "MIT License",
+      "license_full": "https://github.com/Azure/azure-sdk-for-net/raw/1cc799979e68dba56a1920d23bec15f33d9ce6fa/LICENSE.txt"
+    },
+    {
+      "source": "https://github.com/MinecraftForge/MinecraftForge",
+      "base": "42472a8ab82e5e96d3e2fa56b3793663a046b43a",
+      "license": "MIT License",
+      "license_full": "https://github.com/MinecraftForge/MinecraftForge/raw/1.18.x/LICENSE.txt"
+    },
+    {
+      "source": "https://github.com/Microsoft/sql-server-samples",
+      "base": "4693087abebd7e835f9ee46d005dcdaa03092a40",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/microsoft/sql-server-samples/4693087abebd7e835f9ee46d005dcdaa03092a40/license.txt"
+    },
+    {
+      "source": "https://github.com/Azure-Samples/serverless-full-stack-apps-azure-sql",
+      "base": "9a1f10dc284b5f4d0637712724a971d236646bff",
+      "license": "MIT License",
+      "license_full": "https://raw.githubusercontent.com/Azure-Samples/serverless-full-stack-apps-azure-sql/9a1f10dc284b5f4d0637712724a971d236646bff/LICENSE.md"
+    }
+  ]
+}
