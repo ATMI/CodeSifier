@@ -1,16 +1,13 @@
-from typing import Annotated
-
 import numpy as np
 import onnxruntime as ort
-
-from fastapi import FastAPI, UploadFile, File, Form
+from fastapi import FastAPI
 from pydantic import BaseModel
 from starlette.responses import RedirectResponse
 
 from tokenizer import Tokenizer
 from vocab import Vocab
 
-vocab = Vocab.from_file("/home/a/Projects/CodeSifier/data/processed/vocab.csv")
+vocab = Vocab.from_file("vocab.csv")
 tokenizer = Tokenizer(vocab)
 ort_session = ort.InferenceSession("model.onnx")
 

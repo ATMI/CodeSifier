@@ -6,7 +6,6 @@ GLSL
 Clojure
 C++
 C#
-Erlang
 Lisp
 Kotlin
 Assembly
@@ -14,7 +13,6 @@ C
 Batchfile
 Ruby
 Go
-Dart
 Lua
 Elixir
 Dockerfile
